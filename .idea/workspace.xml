@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e0e96d8-900b-4e30-9776-354487d9cf2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1cZJz3KguEH20KaF5Brjvxb4LCB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP\MVC\app\lib\database" />
+      <recent name="C:\xampp\htdocs\PHP\MVC" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0e96d8-900b-4e30-9776-354487d9cf2e" name="Default Changelist" comment="" />
+      <created>1590730440873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590730440873</updated>
+      <workItem from="1590730442350" duration="2197000" />
+      <workItem from="1590785680640" duration="9713000" />
+      <workItem from="1590851347979" duration="41644000" />
+      <workItem from="1590949142253" duration="1825000" />
+      <workItem from="1591198937642" duration="3833000" />
+      <workItem from="1591248453885" duration="663000" />
+      <workItem from="1591339877581" duration="11137000" />
+      <workItem from="1591422574739" duration="1811000" />
+      <workItem from="1591777811503" duration="824000" />
+      <workItem from="1592032307978" duration="1444000" />
+      <workItem from="1592380071432" duration="1194000" />
+      <workItem from="1592403978650" duration="1203000" />
+      <workItem from="1593320710249" duration="494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Inspections" timestamp="1590797582248">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1590797582248" />
+    <state x="188" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1590854205671">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="188" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1590854205671" />
+    <state x="499" y="187" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591348611891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="187" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591348611891" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1592576928268">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592576928268" />
+    <state x="181" y="231" key="NewPhpClassDialog" timestamp="1590892004876">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="181" y="231" key="NewPhpClassDialog/0.0.1536.864@0.0.1536.864" timestamp="1590892004876" />
+    <state x="220" y="355" key="NewPhpFileDialog" timestamp="1590892107147">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="220" y="355" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1590892107147" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1591248455825">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591248455825" />
+    <state x="510" y="71" key="refactoring.ChangeSignatureDialog" timestamp="1593321010349">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="510" y="71" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1593321010349" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1591341203411">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591341203411" />
+  </component>
+</project>
